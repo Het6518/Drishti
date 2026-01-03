@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-function ProfilePage({onNext}) {
+function ProfilePage({ onNext }) {
   const [age, setAge] = useState("");
   const [height, setHeight] = useState("");
   const [weight, setWeight] = useState("");
@@ -14,27 +14,20 @@ function ProfilePage({onNext}) {
     );
   };
 
+  const saveProfile = async () => {
+    await fetch("https://drishti-backend.onrender.com/profile", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        age: Number(age),
+        height_cm: Number(height),
+        weight_kg: Number(weight),
+        conditions,
+      }),
+    });
 
-
-const saveProfile = async () => {
-  await fetch("https://drishti-backend-teja.onrender.com/profile")
-, {
-    method: "POST",
-    headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({
-      age: Number(age),
-      height_cm: Number(height),
-      weight_kg: Number(weight),
-      conditions,
-    }),
-  });
-
-  alert("Profile saved successfully");
-  onNext(); // 👉 MOVE TO SYMPTOM PAGE
-};
-
-  //   alert("Profile saved successfully");
-  // };
+    onNext();
+  };
 
   return (
     <div style={{ padding: 30 }}>
@@ -59,7 +52,6 @@ const saveProfile = async () => {
 
       <br />
       <button onClick={saveProfile}>Save Profile</button>
-
     </div>
   );
 }
