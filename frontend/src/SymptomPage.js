@@ -8,7 +8,7 @@ function SymptomPage({ onResult }) {
   const analyze = async () => {
     setLoading(true);
 
-    const res = await fetch("https://drishti-backend.onrender.com/analyze", {
+    const res = await fetch("https://drishti-backend-teja.onrender.com/analyze", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({
