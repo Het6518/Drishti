@@ -15,7 +15,7 @@ function ProfilePage({ onNext }) {
   };
 
   const saveProfile = async () => {
-    await fetch("https://drishti-backend.onrender.com/profile", {
+    await fetch("https://drishti-backend-teja.onrender.com/profile", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({
