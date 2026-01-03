@@ -17,7 +17,8 @@ function ProfilePage({onNext}) {
 
 
 const saveProfile = async () => {
-  await fetch("http://127.0.0.1:8000/profile", {
+  await fetch("https://drishti-backend.onrender.com/analyze")
+, {
     method: "POST",
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify({
