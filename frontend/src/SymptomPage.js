@@ -3,10 +3,12 @@ import { useState } from "react";
 function SymptomPage({ onResult }) {
   const [symptoms, setSymptoms] = useState("");
   const [age, setAge] = useState("");
+  const [loading, setLoading] = useState(false);
 
   const analyze = async () => {
-    const res = await fetch("https://drishti-backend-teja.onrender.com/analyze")
-, {
+    setLoading(true);
+
+    const res = await fetch("https://drishti-backend.onrender.com/analyze", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({
@@ -16,6 +18,7 @@ function SymptomPage({ onResult }) {
     });
 
     const data = await res.json();
+    setLoading(false);
     onResult(data);
   };
 
@@ -26,18 +29,23 @@ function SymptomPage({ onResult }) {
       <textarea
         rows="4"
         placeholder="e.g. fever and headache"
+        value={symptoms}
         onChange={(e) => setSymptoms(e.target.value)}
       />
 
       <br /><br />
 
       <input
-        placeholder="Age (used if profile not set)"
+        placeholder="Age"
+        value={age}
         onChange={(e) => setAge(e.target.value)}
       />
 
       <br /><br />
-      <button onClick={analyze}>Analyze</button>
+
+      <button onClick={analyze} disabled={loading}>
+        {loading ? "Analyzing..." : "Analyze"}
+      </button>
     </div>
   );
 }
