@@ -1,0 +1,1001 @@
+symptoms,age,conditions,urgency
+mild cough,33,0,LOW
+mild cough,33,0,LOW
+loss of consciousness,76,2,HIGH
+vomiting,53,0,MODERATE
+chest pain,77,1,HIGH
+chest pain,41,1,HIGH
+vomiting,32,0,MODERATE
+vomiting,50,1,MODERATE
+sneezing,6,0,LOW
+runny nose,9,0,LOW
+headache,43,1,MODERATE
+difficulty breathing,55,1,HIGH
+vomiting,39,1,MODERATE
+vomiting,22,0,MODERATE
+headache,54,0,MODERATE
+runny nose,26,0,LOW
+difficulty breathing,68,2,HIGH
+headache,52,1,MODERATE
+loss of consciousness,88,1,HIGH
+sneezing,35,0,LOW
+runny nose,32,0,LOW
+headache,41,0,MODERATE
+sneezing,16,0,LOW
+sneezing,15,0,LOW
+mild cough,15,0,LOW
+loss of consciousness,46,1,HIGH
+sneezing,40,0,LOW
+fever,44,1,MODERATE
+chest pain,88,1,HIGH
+runny nose,32,0,LOW
+vomiting,49,0,MODERATE
+sneezing,40,0,LOW
+difficulty breathing,72,1,HIGH
+loss of consciousness,49,1,HIGH
+mild cough,30,0,LOW
+fever,54,0,MODERATE
+vomiting,56,1,MODERATE
+runny nose,28,0,LOW
+headache,60,1,MODERATE
+mild cough,26,0,LOW
+runny nose,34,0,LOW
+sneezing,37,0,LOW
+mild cough,18,0,LOW
+sneezing,12,0,LOW
+difficulty breathing,78,2,HIGH
+chest pain,51,2,HIGH
+mild cough,13,0,LOW
+mild cough,8,0,LOW
+fever,42,0,MODERATE
+chest pain,40,1,HIGH
+difficulty breathing,42,1,HIGH
+vomiting,21,1,MODERATE
+sneezing,30,0,LOW
+headache,29,0,MODERATE
+headache,24,1,MODERATE
+loss of consciousness,58,1,HIGH
+fever,28,0,MODERATE
+vomiting,44,1,MODERATE
+loss of consciousness,40,1,HIGH
+fever,36,1,MODERATE
+mild cough,7,0,LOW
+runny nose,13,0,LOW
+chest pain,87,1,HIGH
+loss of consciousness,58,2,HIGH
+difficulty breathing,79,1,HIGH
+runny nose,5,0,LOW
+loss of consciousness,89,1,HIGH
+headache,30,1,MODERATE
+runny nose,19,0,LOW
+mild cough,20,0,LOW
+loss of consciousness,78,2,HIGH
+headache,33,1,MODERATE
+vomiting,15,1,MODERATE
+loss of consciousness,56,1,HIGH
+vomiting,38,0,MODERATE
+headache,19,1,MODERATE
+fever,38,0,MODERATE
+loss of consciousness,82,2,HIGH
+difficulty breathing,50,2,HIGH
+vomiting,54,1,MODERATE
+mild cough,21,0,LOW
+vomiting,49,0,MODERATE
+fever,52,0,MODERATE
+difficulty breathing,41,1,HIGH
+fever,24,1,MODERATE
+sneezing,12,0,LOW
+difficulty breathing,89,1,HIGH
+chest pain,78,2,HIGH
+loss of consciousness,59,2,HIGH
+loss of consciousness,73,2,HIGH
+fever,48,0,MODERATE
+sneezing,26,0,LOW
+mild cough,20,0,LOW
+vomiting,59,0,MODERATE
+loss of consciousness,67,1,HIGH
+mild cough,40,0,LOW
+fever,43,1,MODERATE
+vomiting,19,0,MODERATE
+loss of consciousness,64,2,HIGH
+sneezing,29,0,LOW
+runny nose,7,0,LOW
+loss of consciousness,47,2,HIGH
+headache,30,1,MODERATE
+headache,54,1,MODERATE
+headache,48,0,MODERATE
+sneezing,24,0,LOW
+sneezing,12,0,LOW
+runny nose,23,0,LOW
+loss of consciousness,83,2,HIGH
+fever,20,1,MODERATE
+sneezing,39,0,LOW
+chest pain,63,2,HIGH
+difficulty breathing,60,1,HIGH
+vomiting,41,1,MODERATE
+headache,19,1,MODERATE
+loss of consciousness,89,1,HIGH
+mild cough,32,0,LOW
+difficulty breathing,52,1,HIGH
+runny nose,38,0,LOW
+mild cough,17,0,LOW
+difficulty breathing,81,2,HIGH
+headache,32,1,MODERATE
+loss of consciousness,83,2,HIGH
+chest pain,61,1,HIGH
+mild cough,37,0,LOW
+chest pain,65,1,HIGH
+fever,18,0,MODERATE
+loss of consciousness,84,1,HIGH
+loss of consciousness,72,2,HIGH
+chest pain,52,1,HIGH
+difficulty breathing,85,2,HIGH
+loss of consciousness,45,2,HIGH
+mild cough,13,0,LOW
+difficulty breathing,77,1,HIGH
+mild cough,15,0,LOW
+sneezing,32,0,LOW
+vomiting,49,0,MODERATE
+sneezing,32,0,LOW
+fever,38,1,MODERATE
+mild cough,38,0,LOW
+loss of consciousness,63,1,HIGH
+loss of consciousness,42,2,HIGH
+difficulty breathing,57,1,HIGH
+loss of consciousness,41,2,HIGH
+vomiting,16,0,MODERATE
+difficulty breathing,54,2,HIGH
+difficulty breathing,63,2,HIGH
+runny nose,6,0,LOW
+difficulty breathing,88,1,HIGH
+sneezing,18,0,LOW
+fever,46,1,MODERATE
+mild cough,10,0,LOW
+vomiting,51,0,MODERATE
+loss of consciousness,46,2,HIGH
+sneezing,6,0,LOW
+sneezing,14,0,LOW
+mild cough,38,0,LOW
+headache,15,0,MODERATE
+runny nose,10,0,LOW
+headache,17,1,MODERATE
+vomiting,37,0,MODERATE
+fever,40,0,MODERATE
+sneezing,26,0,LOW
+loss of consciousness,45,2,HIGH
+loss of consciousness,84,1,HIGH
+headache,26,1,MODERATE
+chest pain,78,2,HIGH
+runny nose,14,0,LOW
+sneezing,37,0,LOW
+difficulty breathing,59,2,HIGH
+fever,18,1,MODERATE
+difficulty breathing,55,1,HIGH
+loss of consciousness,50,2,HIGH
+fever,40,1,MODERATE
+fever,46,1,MODERATE
+difficulty breathing,58,2,HIGH
+chest pain,62,1,HIGH
+headache,57,1,MODERATE
+chest pain,47,1,HIGH
+runny nose,32,0,LOW
+headache,46,0,MODERATE
+loss of consciousness,73,2,HIGH
+vomiting,46,0,MODERATE
+mild cough,40,0,LOW
+difficulty breathing,58,2,HIGH
+mild cough,24,0,LOW
+sneezing,22,0,LOW
+mild cough,15,0,LOW
+vomiting,25,1,MODERATE
+runny nose,5,0,LOW
+vomiting,32,0,MODERATE
+fever,21,1,MODERATE
+fever,57,0,MODERATE
+vomiting,60,1,MODERATE
+difficulty breathing,83,1,HIGH
+loss of consciousness,49,1,HIGH
+loss of consciousness,48,2,HIGH
+chest pain,64,2,HIGH
+loss of consciousness,58,2,HIGH
+vomiting,22,1,MODERATE
+difficulty breathing,87,2,HIGH
+fever,15,0,MODERATE
+loss of consciousness,68,1,HIGH
+headache,21,0,MODERATE
+difficulty breathing,44,2,HIGH
+mild cough,18,0,LOW
+vomiting,48,0,MODERATE
+mild cough,6,0,LOW
+difficulty breathing,77,1,HIGH
+mild cough,30,0,LOW
+headache,17,0,MODERATE
+chest pain,68,1,HIGH
+mild cough,10,0,LOW
+mild cough,6,0,LOW
+fever,49,1,MODERATE
+vomiting,56,1,MODERATE
+chest pain,88,2,HIGH
+loss of consciousness,45,1,HIGH
+difficulty breathing,71,2,HIGH
+difficulty breathing,79,1,HIGH
+headache,59,0,MODERATE
+difficulty breathing,72,1,HIGH
+fever,33,0,MODERATE
+difficulty breathing,69,2,HIGH
+headache,15,0,MODERATE
+headache,54,1,MODERATE
+sneezing,14,0,LOW
+fever,22,0,MODERATE
+loss of consciousness,78,2,HIGH
+sneezing,36,0,LOW
+vomiting,45,0,MODERATE
+chest pain,81,2,HIGH
+vomiting,60,0,MODERATE
+difficulty breathing,56,2,HIGH
+fever,56,1,MODERATE
+difficulty breathing,46,1,HIGH
+runny nose,5,0,LOW
+headache,24,0,MODERATE
+headache,17,1,MODERATE
+loss of consciousness,73,1,HIGH
+headache,52,1,MODERATE
+headache,47,1,MODERATE
+loss of consciousness,59,1,HIGH
+vomiting,27,1,MODERATE
+runny nose,33,0,LOW
+difficulty breathing,69,2,HIGH
+mild cough,25,0,LOW
+chest pain,71,1,HIGH
+vomiting,59,0,MODERATE
+loss of consciousness,60,2,HIGH
+mild cough,33,0,LOW
+difficulty breathing,66,2,HIGH
+fever,44,1,MODERATE
+runny nose,9,0,LOW
+sneezing,16,0,LOW
+runny nose,23,0,LOW
+loss of consciousness,83,1,HIGH
+fever,41,0,MODERATE
+sneezing,11,0,LOW
+headache,21,1,MODERATE
+fever,34,0,MODERATE
+difficulty breathing,56,2,HIGH
+difficulty breathing,65,2,HIGH
+sneezing,39,0,LOW
+runny nose,32,0,LOW
+difficulty breathing,45,2,HIGH
+sneezing,21,0,LOW
+vomiting,47,0,MODERATE
+headache,20,0,MODERATE
+vomiting,23,0,MODERATE
+difficulty breathing,78,1,HIGH
+vomiting,60,1,MODERATE
+chest pain,60,1,HIGH
+sneezing,9,0,LOW
+sneezing,33,0,LOW
+loss of consciousness,51,2,HIGH
+sneezing,12,0,LOW
+mild cough,22,0,LOW
+chest pain,70,1,HIGH
+fever,20,0,MODERATE
+mild cough,14,0,LOW
+difficulty breathing,51,2,HIGH
+fever,58,1,MODERATE
+mild cough,10,0,LOW
+vomiting,46,1,MODERATE
+sneezing,26,0,LOW
+chest pain,48,2,HIGH
+runny nose,33,0,LOW
+sneezing,8,0,LOW
+loss of consciousness,48,2,HIGH
+runny nose,31,0,LOW
+runny nose,23,0,LOW
+chest pain,86,1,HIGH
+difficulty breathing,89,2,HIGH
+fever,28,1,MODERATE
+runny nose,18,0,LOW
+chest pain,52,1,HIGH
+runny nose,9,0,LOW
+loss of consciousness,88,1,HIGH
+headache,45,1,MODERATE
+runny nose,22,0,LOW
+mild cough,25,0,LOW
+fever,55,1,MODERATE
+chest pain,45,1,HIGH
+loss of consciousness,48,2,HIGH
+fever,34,0,MODERATE
+chest pain,67,1,HIGH
+chest pain,62,2,HIGH
+chest pain,82,1,HIGH
+loss of consciousness,57,1,HIGH
+vomiting,39,0,MODERATE
+runny nose,30,0,LOW
+runny nose,28,0,LOW
+fever,50,1,MODERATE
+chest pain,83,1,HIGH
+chest pain,50,1,HIGH
+runny nose,7,0,LOW
+difficulty breathing,46,2,HIGH
+chest pain,62,2,HIGH
+sneezing,9,0,LOW
+fever,28,0,MODERATE
+sneezing,30,0,LOW
+difficulty breathing,42,2,HIGH
+loss of consciousness,75,1,HIGH
+sneezing,18,0,LOW
+sneezing,36,0,LOW
+mild cough,16,0,LOW
+runny nose,8,0,LOW
+mild cough,36,0,LOW
+sneezing,37,0,LOW
+runny nose,26,0,LOW
+vomiting,39,0,MODERATE
+runny nose,26,0,LOW
+mild cough,29,0,LOW
+sneezing,16,0,LOW
+difficulty breathing,62,1,HIGH
+fever,53,1,MODERATE
+vomiting,44,0,MODERATE
+vomiting,42,1,MODERATE
+runny nose,36,0,LOW
+sneezing,33,0,LOW
+vomiting,57,0,MODERATE
+sneezing,29,0,LOW
+mild cough,32,0,LOW
+mild cough,11,0,LOW
+fever,49,1,MODERATE
+sneezing,23,0,LOW
+vomiting,57,1,MODERATE
+loss of consciousness,43,2,HIGH
+runny nose,38,0,LOW
+fever,45,0,MODERATE
+vomiting,51,0,MODERATE
+runny nose,37,0,LOW
+runny nose,38,0,LOW
+chest pain,75,2,HIGH
+runny nose,10,0,LOW
+fever,27,1,MODERATE
+difficulty breathing,42,1,HIGH
+loss of consciousness,78,1,HIGH
+vomiting,47,0,MODERATE
+sneezing,15,0,LOW
+difficulty breathing,41,2,HIGH
+loss of consciousness,46,1,HIGH
+chest pain,69,2,HIGH
+runny nose,12,0,LOW
+fever,17,0,MODERATE
+runny nose,31,0,LOW
+headache,41,0,MODERATE
+mild cough,39,0,LOW
+headache,53,0,MODERATE
+vomiting,23,0,MODERATE
+vomiting,55,1,MODERATE
+difficulty breathing,83,1,HIGH
+fever,59,0,MODERATE
+loss of consciousness,67,2,HIGH
+sneezing,37,0,LOW
+fever,57,1,MODERATE
+loss of consciousness,87,2,HIGH
+sneezing,13,0,LOW
+vomiting,49,1,MODERATE
+loss of consciousness,50,1,HIGH
+mild cough,7,0,LOW
+fever,21,0,MODERATE
+mild cough,29,0,LOW
+sneezing,19,0,LOW
+sneezing,29,0,LOW
+headache,45,1,MODERATE
+mild cough,21,0,LOW
+vomiting,53,0,MODERATE
+chest pain,46,1,HIGH
+headache,20,1,MODERATE
+headache,28,0,MODERATE
+loss of consciousness,56,2,HIGH
+fever,27,0,MODERATE
+chest pain,67,2,HIGH
+headache,56,0,MODERATE
+fever,24,0,MODERATE
+fever,53,0,MODERATE
+fever,22,0,MODERATE
+sneezing,13,0,LOW
+sneezing,11,0,LOW
+vomiting,57,1,MODERATE
+vomiting,28,0,MODERATE
+loss of consciousness,89,2,HIGH
+headache,58,1,MODERATE
+runny nose,23,0,LOW
+difficulty breathing,82,1,HIGH
+headache,50,0,MODERATE
+runny nose,37,0,LOW
+mild cough,7,0,LOW
+chest pain,70,1,HIGH
+difficulty breathing,83,1,HIGH
+difficulty breathing,53,2,HIGH
+chest pain,63,2,HIGH
+runny nose,7,0,LOW
+mild cough,7,0,LOW
+mild cough,16,0,LOW
+chest pain,49,2,HIGH
+mild cough,31,0,LOW
+loss of consciousness,90,1,HIGH
+runny nose,30,0,LOW
+headache,54,1,MODERATE
+fever,30,0,MODERATE
+difficulty breathing,76,2,HIGH
+fever,23,1,MODERATE
+chest pain,53,1,HIGH
+fever,52,0,MODERATE
+mild cough,36,0,LOW
+headache,16,0,MODERATE
+sneezing,5,0,LOW
+chest pain,89,2,HIGH
+mild cough,18,0,LOW
+loss of consciousness,71,1,HIGH
+chest pain,77,2,HIGH
+vomiting,28,0,MODERATE
+mild cough,19,0,LOW
+fever,16,1,MODERATE
+vomiting,16,0,MODERATE
+sneezing,24,0,LOW
+mild cough,33,0,LOW
+loss of consciousness,78,2,HIGH
+vomiting,60,0,MODERATE
+vomiting,50,1,MODERATE
+loss of consciousness,40,1,HIGH
+difficulty breathing,89,1,HIGH
+vomiting,27,1,MODERATE
+headache,51,0,MODERATE
+chest pain,71,2,HIGH
+difficulty breathing,47,2,HIGH
+loss of consciousness,78,1,HIGH
+vomiting,57,1,MODERATE
+runny nose,19,0,LOW
+loss of consciousness,43,1,HIGH
+fever,34,1,MODERATE
+chest pain,60,1,HIGH
+mild cough,26,0,LOW
+mild cough,28,0,LOW
+loss of consciousness,47,1,HIGH
+mild cough,37,0,LOW
+chest pain,63,2,HIGH
+sneezing,40,0,LOW
+chest pain,54,2,HIGH
+headache,30,0,MODERATE
+fever,21,1,MODERATE
+loss of consciousness,52,1,HIGH
+sneezing,23,0,LOW
+fever,32,0,MODERATE
+runny nose,21,0,LOW
+vomiting,45,0,MODERATE
+vomiting,38,0,MODERATE
+loss of consciousness,65,1,HIGH
+vomiting,46,1,MODERATE
+difficulty breathing,73,2,HIGH
+fever,46,0,MODERATE
+fever,53,1,MODERATE
+mild cough,29,0,LOW
+runny nose,14,0,LOW
+difficulty breathing,89,1,HIGH
+loss of consciousness,48,1,HIGH
+mild cough,24,0,LOW
+chest pain,41,2,HIGH
+difficulty breathing,54,1,HIGH
+fever,15,0,MODERATE
+vomiting,43,1,MODERATE
+difficulty breathing,49,2,HIGH
+fever,38,1,MODERATE
+mild cough,22,0,LOW
+fever,23,1,MODERATE
+runny nose,5,0,LOW
+chest pain,81,1,HIGH
+vomiting,48,0,MODERATE
+loss of consciousness,47,1,HIGH
+runny nose,34,0,LOW
+vomiting,45,0,MODERATE
+headache,27,0,MODERATE
+sneezing,17,0,LOW
+fever,45,1,MODERATE
+sneezing,27,0,LOW
+fever,52,1,MODERATE
+chest pain,86,1,HIGH
+mild cough,39,0,LOW
+loss of consciousness,47,1,HIGH
+sneezing,10,0,LOW
+runny nose,40,0,LOW
+mild cough,26,0,LOW
+mild cough,31,0,LOW
+sneezing,12,0,LOW
+sneezing,6,0,LOW
+fever,24,0,MODERATE
+mild cough,33,0,LOW
+difficulty breathing,46,2,HIGH
+headache,34,0,MODERATE
+mild cough,13,0,LOW
+chest pain,50,1,HIGH
+loss of consciousness,80,1,HIGH
+mild cough,17,0,LOW
+headache,39,1,MODERATE
+vomiting,22,1,MODERATE
+difficulty breathing,49,1,HIGH
+vomiting,45,1,MODERATE
+difficulty breathing,76,1,HIGH
+headache,56,0,MODERATE
+runny nose,33,0,LOW
+vomiting,18,0,MODERATE
+vomiting,28,1,MODERATE
+chest pain,68,1,HIGH
+runny nose,11,0,LOW
+mild cough,31,0,LOW
+headache,45,0,MODERATE
+mild cough,7,0,LOW
+loss of consciousness,43,1,HIGH
+difficulty breathing,46,1,HIGH
+runny nose,35,0,LOW
+mild cough,19,0,LOW
+loss of consciousness,56,1,HIGH
+fever,34,0,MODERATE
+runny nose,5,0,LOW
+difficulty breathing,70,1,HIGH
+sneezing,12,0,LOW
+loss of consciousness,82,2,HIGH
+headache,53,0,MODERATE
+vomiting,17,0,MODERATE
+runny nose,7,0,LOW
+loss of consciousness,42,1,HIGH
+difficulty breathing,63,2,HIGH
+chest pain,40,2,HIGH
+loss of consciousness,88,2,HIGH
+sneezing,15,0,LOW
+runny nose,15,0,LOW
+difficulty breathing,48,1,HIGH
+fever,37,1,MODERATE
+sneezing,25,0,LOW
+sneezing,30,0,LOW
+mild cough,39,0,LOW
+mild cough,19,0,LOW
+difficulty breathing,57,1,HIGH
+vomiting,48,1,MODERATE
+headache,24,1,MODERATE
+vomiting,36,1,MODERATE
+mild cough,19,0,LOW
+sneezing,5,0,LOW
+loss of consciousness,57,1,HIGH
+loss of consciousness,66,2,HIGH
+loss of consciousness,54,2,HIGH
+sneezing,11,0,LOW
+vomiting,57,1,MODERATE
+runny nose,18,0,LOW
+vomiting,45,0,MODERATE
+mild cough,40,0,LOW
+fever,57,0,MODERATE
+fever,49,1,MODERATE
+sneezing,32,0,LOW
+chest pain,54,1,HIGH
+fever,35,0,MODERATE
+headache,59,1,MODERATE
+fever,23,1,MODERATE
+chest pain,63,2,HIGH
+mild cough,35,0,LOW
+chest pain,88,1,HIGH
+mild cough,26,0,LOW
+headache,43,0,MODERATE
+fever,30,0,MODERATE
+chest pain,62,1,HIGH
+headache,19,0,MODERATE
+difficulty breathing,44,2,HIGH
+runny nose,19,0,LOW
+chest pain,42,2,HIGH
+loss of consciousness,66,1,HIGH
+difficulty breathing,44,1,HIGH
+loss of consciousness,52,2,HIGH
+headache,27,0,MODERATE
+chest pain,66,2,HIGH
+mild cough,7,0,LOW
+fever,57,1,MODERATE
+fever,18,1,MODERATE
+chest pain,56,2,HIGH
+mild cough,22,0,LOW
+sneezing,7,0,LOW
+mild cough,30,0,LOW
+fever,22,1,MODERATE
+difficulty breathing,50,2,HIGH
+fever,46,0,MODERATE
+difficulty breathing,46,2,HIGH
+headache,57,0,MODERATE
+sneezing,40,0,LOW
+difficulty breathing,62,2,HIGH
+runny nose,32,0,LOW
+vomiting,45,1,MODERATE
+headache,53,0,MODERATE
+fever,47,1,MODERATE
+sneezing,27,0,LOW
+fever,51,0,MODERATE
+headache,49,0,MODERATE
+sneezing,34,0,LOW
+headache,56,0,MODERATE
+difficulty breathing,77,2,HIGH
+headache,29,1,MODERATE
+fever,43,0,MODERATE
+fever,20,0,MODERATE
+loss of consciousness,52,1,HIGH
+chest pain,65,1,HIGH
+vomiting,19,0,MODERATE
+fever,45,1,MODERATE
+mild cough,21,0,LOW
+headache,37,1,MODERATE
+runny nose,7,0,LOW
+fever,15,1,MODERATE
+runny nose,13,0,LOW
+mild cough,20,0,LOW
+difficulty breathing,81,1,HIGH
+mild cough,14,0,LOW
+runny nose,40,0,LOW
+sneezing,8,0,LOW
+difficulty breathing,55,1,HIGH
+difficulty breathing,53,1,HIGH
+headache,28,1,MODERATE
+difficulty breathing,79,1,HIGH
+headache,52,0,MODERATE
+vomiting,57,0,MODERATE
+mild cough,12,0,LOW
+difficulty breathing,55,1,HIGH
+sneezing,24,0,LOW
+runny nose,25,0,LOW
+sneezing,7,0,LOW
+loss of consciousness,76,1,HIGH
+fever,33,1,MODERATE
+vomiting,51,0,MODERATE
+chest pain,89,2,HIGH
+headache,41,0,MODERATE
+loss of consciousness,46,2,HIGH
+headache,50,1,MODERATE
+mild cough,30,0,LOW
+loss of consciousness,68,2,HIGH
+loss of consciousness,68,1,HIGH
+fever,42,0,MODERATE
+runny nose,21,0,LOW
+headache,18,0,MODERATE
+chest pain,46,1,HIGH
+headache,33,1,MODERATE
+sneezing,40,0,LOW
+sneezing,40,0,LOW
+sneezing,32,0,LOW
+sneezing,25,0,LOW
+difficulty breathing,89,1,HIGH
+headache,32,1,MODERATE
+mild cough,33,0,LOW
+chest pain,81,2,HIGH
+runny nose,20,0,LOW
+mild cough,19,0,LOW
+sneezing,34,0,LOW
+loss of consciousness,47,2,HIGH
+mild cough,6,0,LOW
+loss of consciousness,52,1,HIGH
+chest pain,88,1,HIGH
+vomiting,59,0,MODERATE
+sneezing,23,0,LOW
+loss of consciousness,52,1,HIGH
+sneezing,38,0,LOW
+mild cough,34,0,LOW
+loss of consciousness,86,1,HIGH
+vomiting,52,0,MODERATE
+runny nose,26,0,LOW
+sneezing,30,0,LOW
+loss of consciousness,86,1,HIGH
+headache,54,1,MODERATE
+chest pain,86,1,HIGH
+loss of consciousness,43,1,HIGH
+difficulty breathing,52,1,HIGH
+mild cough,10,0,LOW
+chest pain,71,1,HIGH
+loss of consciousness,41,1,HIGH
+vomiting,28,0,MODERATE
+headache,50,1,MODERATE
+difficulty breathing,82,2,HIGH
+runny nose,20,0,LOW
+vomiting,26,1,MODERATE
+mild cough,16,0,LOW
+sneezing,15,0,LOW
+runny nose,34,0,LOW
+difficulty breathing,56,1,HIGH
+runny nose,38,0,LOW
+difficulty breathing,45,1,HIGH
+mild cough,23,0,LOW
+runny nose,7,0,LOW
+sneezing,23,0,LOW
+runny nose,15,0,LOW
+runny nose,11,0,LOW
+chest pain,43,2,HIGH
+chest pain,66,2,HIGH
+sneezing,19,0,LOW
+fever,48,1,MODERATE
+chest pain,49,1,HIGH
+loss of consciousness,60,1,HIGH
+chest pain,63,2,HIGH
+vomiting,35,0,MODERATE
+fever,39,0,MODERATE
+chest pain,79,2,HIGH
+fever,45,1,MODERATE
+chest pain,72,1,HIGH
+difficulty breathing,63,2,HIGH
+sneezing,15,0,LOW
+chest pain,60,1,HIGH
+chest pain,80,2,HIGH
+runny nose,19,0,LOW
+sneezing,9,0,LOW
+headache,34,1,MODERATE
+difficulty breathing,47,1,HIGH
+loss of consciousness,41,2,HIGH
+sneezing,23,0,LOW
+vomiting,31,1,MODERATE
+runny nose,26,0,LOW
+sneezing,28,0,LOW
+sneezing,28,0,LOW
+loss of consciousness,79,2,HIGH
+chest pain,90,1,HIGH
+chest pain,64,2,HIGH
+chest pain,69,2,HIGH
+loss of consciousness,43,2,HIGH
+mild cough,20,0,LOW
+difficulty breathing,88,2,HIGH
+mild cough,23,0,LOW
+difficulty breathing,86,1,HIGH
+vomiting,33,1,MODERATE
+loss of consciousness,68,2,HIGH
+chest pain,83,2,HIGH
+vomiting,54,0,MODERATE
+fever,38,1,MODERATE
+chest pain,85,1,HIGH
+runny nose,10,0,LOW
+loss of consciousness,40,2,HIGH
+runny nose,21,0,LOW
+mild cough,31,0,LOW
+runny nose,26,0,LOW
+headache,51,0,MODERATE
+vomiting,34,0,MODERATE
+sneezing,5,0,LOW
+headache,26,0,MODERATE
+mild cough,15,0,LOW
+mild cough,37,0,LOW
+fever,35,0,MODERATE
+runny nose,26,0,LOW
+vomiting,20,0,MODERATE
+sneezing,10,0,LOW
+runny nose,6,0,LOW
+vomiting,34,1,MODERATE
+loss of consciousness,63,2,HIGH
+vomiting,32,0,MODERATE
+runny nose,37,0,LOW
+chest pain,86,2,HIGH
+difficulty breathing,44,2,HIGH
+difficulty breathing,84,2,HIGH
+mild cough,18,0,LOW
+chest pain,81,1,HIGH
+mild cough,30,0,LOW
+headache,20,0,MODERATE
+headache,50,1,MODERATE
+runny nose,25,0,LOW
+loss of consciousness,66,2,HIGH
+headache,31,1,MODERATE
+mild cough,36,0,LOW
+fever,35,1,MODERATE
+mild cough,27,0,LOW
+fever,30,1,MODERATE
+sneezing,31,0,LOW
+sneezing,32,0,LOW
+loss of consciousness,88,2,HIGH
+vomiting,52,0,MODERATE
+chest pain,78,2,HIGH
+mild cough,33,0,LOW
+runny nose,38,0,LOW
+chest pain,55,2,HIGH
+runny nose,21,0,LOW
+sneezing,13,0,LOW
+chest pain,59,2,HIGH
+vomiting,27,0,MODERATE
+vomiting,49,0,MODERATE
+difficulty breathing,85,1,HIGH
+vomiting,58,1,MODERATE
+chest pain,49,2,HIGH
+runny nose,17,0,LOW
+fever,25,1,MODERATE
+vomiting,45,0,MODERATE
+vomiting,40,1,MODERATE
+mild cough,6,0,LOW
+headache,58,0,MODERATE
+fever,50,1,MODERATE
+chest pain,83,2,HIGH
+loss of consciousness,81,2,HIGH
+runny nose,16,0,LOW
+chest pain,83,1,HIGH
+loss of consciousness,77,2,HIGH
+mild cough,29,0,LOW
+headache,49,0,MODERATE
+headache,15,1,MODERATE
+sneezing,22,0,LOW
+chest pain,52,2,HIGH
+difficulty breathing,60,2,HIGH
+runny nose,13,0,LOW
+fever,23,1,MODERATE
+runny nose,32,0,LOW
+difficulty breathing,56,1,HIGH
+mild cough,21,0,LOW
+mild cough,37,0,LOW
+chest pain,66,1,HIGH
+headache,37,0,MODERATE
+runny nose,20,0,LOW
+mild cough,10,0,LOW
+difficulty breathing,41,1,HIGH
+fever,52,1,MODERATE
+fever,20,0,MODERATE
+sneezing,14,0,LOW
+chest pain,58,1,HIGH
+vomiting,27,0,MODERATE
+mild cough,17,0,LOW
+headache,34,0,MODERATE
+headache,21,0,MODERATE
+sneezing,28,0,LOW
+loss of consciousness,72,2,HIGH
+difficulty breathing,88,2,HIGH
+fever,53,1,MODERATE
+headache,40,0,MODERATE
+loss of consciousness,67,1,HIGH
+runny nose,7,0,LOW
+mild cough,30,0,LOW
+loss of consciousness,74,1,HIGH
+vomiting,21,1,MODERATE
+vomiting,35,1,MODERATE
+vomiting,38,0,MODERATE
+loss of consciousness,51,1,HIGH
+headache,54,0,MODERATE
+mild cough,38,0,LOW
+fever,48,1,MODERATE
+difficulty breathing,75,2,HIGH
+sneezing,13,0,LOW
+loss of consciousness,40,2,HIGH
+headache,53,0,MODERATE
+loss of consciousness,78,1,HIGH
+chest pain,88,2,HIGH
+runny nose,23,0,LOW
+chest pain,85,1,HIGH
+chest pain,74,2,HIGH
+mild cough,9,0,LOW
+headache,50,1,MODERATE
+headache,57,1,MODERATE
+headache,49,1,MODERATE
+difficulty breathing,88,2,HIGH
+sneezing,23,0,LOW
+chest pain,40,1,HIGH
+headache,15,0,MODERATE
+vomiting,34,0,MODERATE
+headache,17,0,MODERATE
+vomiting,26,0,MODERATE
+runny nose,20,0,LOW
+loss of consciousness,43,2,HIGH
+chest pain,40,1,HIGH
+mild cough,10,0,LOW
+fever,42,1,MODERATE
+vomiting,51,1,MODERATE
+headache,35,1,MODERATE
+chest pain,79,1,HIGH
+chest pain,41,1,HIGH
+vomiting,23,0,MODERATE
+runny nose,7,0,LOW
+chest pain,42,1,HIGH
+difficulty breathing,69,2,HIGH
+runny nose,33,0,LOW
+fever,51,1,MODERATE
+difficulty breathing,41,2,HIGH
+fever,35,0,MODERATE
+mild cough,15,0,LOW
+fever,16,0,MODERATE
+vomiting,20,0,MODERATE
+chest pain,53,1,HIGH
+headache,30,0,MODERATE
+chest pain,73,1,HIGH
+mild cough,12,0,LOW
+loss of consciousness,55,2,HIGH
+chest pain,52,1,HIGH
+loss of consciousness,59,2,HIGH
+headache,54,0,MODERATE
+fever,55,1,MODERATE
+mild cough,33,0,LOW
+sneezing,16,0,LOW
+sneezing,35,0,LOW
+loss of consciousness,51,1,HIGH
+chest pain,59,1,HIGH
+difficulty breathing,45,1,HIGH
+loss of consciousness,68,2,HIGH
+mild cough,9,0,LOW
+chest pain,42,2,HIGH
+loss of consciousness,41,2,HIGH
+chest pain,48,1,HIGH
+difficulty breathing,64,1,HIGH
+runny nose,10,0,LOW
+runny nose,33,0,LOW
+vomiting,59,1,MODERATE
+vomiting,27,1,MODERATE
+difficulty breathing,68,2,HIGH
+chest pain,45,2,HIGH
+loss of consciousness,50,2,HIGH
+chest pain,60,2,HIGH
+loss of consciousness,88,1,HIGH
+difficulty breathing,80,1,HIGH
+headache,52,1,MODERATE
+mild cough,27,0,LOW
+vomiting,16,1,MODERATE
+vomiting,48,1,MODERATE
+mild cough,18,0,LOW
+mild cough,35,0,LOW
+vomiting,59,0,MODERATE
+headache,17,1,MODERATE
+difficulty breathing,76,1,HIGH
+mild cough,10,0,LOW
+loss of consciousness,73,1,HIGH
+loss of consciousness,73,1,HIGH
+fever,32,0,MODERATE
+vomiting,42,1,MODERATE
+headache,20,1,MODERATE
+runny nose,40,0,LOW
+runny nose,6,0,LOW
+chest pain,56,2,HIGH
+vomiting,16,0,MODERATE
+vomiting,25,0,MODERATE
+headache,36,1,MODERATE
+chest pain,41,2,HIGH
+vomiting,22,1,MODERATE
+chest pain,73,1,HIGH
+mild cough,6,0,LOW
+difficulty breathing,82,1,HIGH
+runny nose,16,0,LOW
+fever,32,0,MODERATE
+fever,22,1,MODERATE
+chest pain,54,1,HIGH
+runny nose,12,0,LOW
+headache,58,0,MODERATE
+sneezing,17,0,LOW
+mild cough,30,0,LOW
+mild cough,37,0,LOW
+headache,22,1,MODERATE
+chest pain,55,1,HIGH
+sneezing,15,0,LOW
+loss of consciousness,62,2,HIGH
+runny nose,31,0,LOW
+difficulty breathing,50,1,HIGH
+sneezing,26,0,LOW
+sneezing,5,0,LOW
+difficulty breathing,78,2,HIGH
+sneezing,28,0,LOW
+runny nose,12,0,LOW
+vomiting,20,0,MODERATE
+vomiting,46,0,MODERATE
+loss of consciousness,84,1,HIGH
+runny nose,26,0,LOW
+sneezing,20,0,LOW
+vomiting,56,1,MODERATE
+chest pain,71,2,HIGH
+difficulty breathing,46,1,HIGH
+runny nose,28,0,LOW
+sneezing,8,0,LOW
+loss of consciousness,67,2,HIGH
+loss of consciousness,55,1,HIGH
+runny nose,34,0,LOW
+loss of consciousness,79,2,HIGH
+runny nose,33,0,LOW
+vomiting,53,0,MODERATE
+fever,53,0,MODERATE
+chest pain,87,1,HIGH
+mild cough,31,0,LOW
+difficulty breathing,66,1,HIGH
+difficulty breathing,57,1,HIGH
+loss of consciousness,85,1,HIGH
+sneezing,40,0,LOW
+chest pain,88,1,HIGH
+vomiting,59,0,MODERATE
+runny nose,28,0,LOW
+fever,38,1,MODERATE
+mild cough,33,0,LOW
+vomiting,36,0,MODERATE
+chest pain,72,1,HIGH
+loss of consciousness,55,1,HIGH
