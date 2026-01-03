@@ -5,7 +5,8 @@ function SymptomPage({ onResult }) {
   const [age, setAge] = useState("");
 
   const analyze = async () => {
-    const res = await fetch("http://127.0.0.1:8000/analyze", {
+    const res = await fetch("https://drishti-backend-teja.onrender.com/analyze")
+, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({
